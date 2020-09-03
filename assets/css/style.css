@@ -1830,3 +1830,19 @@ section {
   text-align: center;
   font-size: 13px;
 }
+#header .logo {
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    position: relative;
+    right: 100px;
+}
+.d-lg-block {
+    display: block!important;
+    position: relative;
+    left: 50px;
+}
